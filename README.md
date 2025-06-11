@@ -21,3 +21,5 @@ The Flugsvamp 4.0 shop offers a wide array of illegal products, with a particula
 Remember, participating in such markets involves significant risks, including legal and security implications. Always take all necessary precautions to protect your identity and data while navigating these platforms, and the use of the .onion address is a critical first step.
 
 <a href="http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion"><img src="/user/accent.webp" alt="image" style="max-width: 100%;"></a>  <a href="http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion"><img src="/user/quiet.webp" alt="image" style="max-width: 100%;"></a>
+
+Update: Updated endpoint documentation URLs
