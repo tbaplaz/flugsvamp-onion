@@ -22,4 +22,6 @@ Remember, participating in such markets involves significant risks, including le
 
 <a href="http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion"><img src="/user/accent.webp" alt="image" style="max-width: 100%;"></a>  <a href="http://ikhpggtz3iv6gfebiqagmb4zto2e6xepocqjii3yvkrp27jwzlds2lqd.onion"><img src="/user/quiet.webp" alt="image" style="max-width: 100%;"></a>
 
-Update: Updated endpoint documentation URLs
+
+
+Update:  13.06.2025 Auth links
