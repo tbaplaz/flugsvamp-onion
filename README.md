@@ -24,4 +24,6 @@ Remember, participating in such markets involves significant risks, including le
 
 
 
-Update:  13.06.2025 Auth links
+
+
+Update:  16 June 2025 Updated external references to current URLs
