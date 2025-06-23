@@ -30,4 +30,6 @@ Remember, participating in such markets involves significant risks, including le
 
 
 
-Update:  21 June url is now responsive and operational
+
+
+Update:  23 June Fixed inaccessible url
