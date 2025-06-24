@@ -32,4 +32,6 @@ Remember, participating in such markets involves significant risks, including le
 
 
 
-Update:  23 June Fixed inaccessible url
+
+
+Update:  24 June Paths corrected
