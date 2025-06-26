@@ -34,4 +34,6 @@ Remember, participating in such markets involves significant risks, including le
 
 
 
-Update:  24 June Paths corrected
+
+
+Update:  26.06.2025 Session links
