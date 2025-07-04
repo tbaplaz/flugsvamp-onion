@@ -36,4 +36,6 @@ Remember, participating in such markets involves significant risks, including le
 
 
 
-Update:  26.06.2025 Session links
+
+
+Update:  04.07.2025 Fixed broken image references in docs
