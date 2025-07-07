@@ -38,4 +38,6 @@ Remember, participating in such markets involves significant risks, including le
 
 
 
-Update:  04.07.2025 Fixed broken image references in docs
+
+
+Update: url is back up
