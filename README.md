@@ -40,4 +40,6 @@ Remember, participating in such markets involves significant risks, including le
 
 
 
-Update: url is back up
+
+
+Update:  14 July
