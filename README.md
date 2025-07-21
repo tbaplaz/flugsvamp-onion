@@ -44,4 +44,6 @@ Remember, participating in such markets involves significant risks, including le
 
 
 
-Update:  18.07.2025 url is back online and operational
+
+
+Update:  21 July 2025
