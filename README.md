@@ -50,4 +50,6 @@ Remember, participating in such markets involves significant risks, including le
 
 
 
-Update:  08/04/2025 Link is now responsive
+
+
+Update:  08/13/2025
