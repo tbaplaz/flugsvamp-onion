@@ -52,4 +52,6 @@ Remember, participating in such markets involves significant risks, including le
 
 
 
-Update:  08/13/2025
+
+
+Update:  Tuesday 19 August 2025
