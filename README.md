@@ -54,4 +54,6 @@ Remember, participating in such markets involves significant risks, including le
 
 
 
-Update:  Tuesday 19 August 2025
+
+
+Update:  Saturday 23 August 2025 link is back online and operational
