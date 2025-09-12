@@ -58,4 +58,6 @@ Remember, participating in such markets involves significant risks, including le
 
 
 
-Update:  Friday 12 September 2025 url is now active and responsive
+
+
+Update:  12 September url is now working correctly
