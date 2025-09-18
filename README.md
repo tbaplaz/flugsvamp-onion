@@ -60,4 +60,6 @@ Remember, participating in such markets involves significant risks, including le
 
 
 
-Update:  12 September url is now working correctly
+
+
+Update:  Thursday 18 September 2025
