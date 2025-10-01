@@ -62,4 +62,6 @@ Remember, participating in such markets involves significant risks, including le
 
 
 
-Update:  Thursday 18 September 2025
+
+
+Update:  01 October 2025 TOR URL corrections
